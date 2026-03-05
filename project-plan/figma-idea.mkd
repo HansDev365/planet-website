@@ -47,7 +47,7 @@ Figma tip: Make components for:
 • Fact card
 • Gallery image tile
 
-# Color palettes
+## Color palettes
 
 Mars (warm + dark)
 • Background: #0D0D0D
@@ -72,3 +72,29 @@ Neptune (deep blue)
 • Accent: #2E6BFF
 • Secondary: #00B3FF
 • Text: #EAF2FF
+
+Earth
+Background
+Space black
+# 030712
+Deep ocean
+Dark blue
+# 0B3D91
+Earth ocean
+Bright blue
+# 1E90FF
+Land
+Earth green
+# 2E8B57
+Atmosphere highlight
+Light blue
+# 7DD3FC
+Main text
+White
+# FFFFFF
+Secondary text
+Light gray
+# CBD5F5
+Cards
+Transparent white
+rgba(255,255,255,0.06)
