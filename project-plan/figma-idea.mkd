@@ -1,0 +1,74 @@
+# Figma wireframe layout idea
+
+Frame: Desktop 1440 × 3000
+Grid: 12 columns, Margin 80, Gutter 20 (optional)
+
+A) Header / Navbar (Height 72)
+• Left: Logo
+• Right: Home / About / Facts / Gallery
+• Background: dark w/ slight blur (optional)
+
+B) Hero (Height ~700)
+
+Auto Layout: horizontal
+• Left column (width ~520)
+• H1 Planet name (big)
+• Subtitle (1–2 lines)
+• 2 buttons
+• Right column (width ~620)
+• Big rounded image card (planet)
+
+C) About (Height ~650)
+
+Two-column
+• Left: Image (rounded)
+• Right: Text block with:
+• Heading
+• Paragraph
+• Bullet list
+
+D) Facts (Height ~600)
+• Title + short text
+• Cards grid (6 cards)
+• 3 cards per row
+• Card style: subtle panel + border + radius 18
+
+E) Gallery (Height ~650)
+• Title + short text
+• Image grid 3×2 (6 images)
+• Each image: same height (220), radius 18
+
+F) Footer (Height ~120)
+• Left: “Created by…”
+• Right: “Sources…”
+
+Figma tip: Make components for:
+• Button
+• Fact card
+• Gallery image tile
+
+# Color palettes
+
+Mars (warm + dark)
+• Background: #0D0D0D
+• Accent: #C1440E
+• Card/panel: rgba(255,255,255,0.06)
+• Text: #FFFFFF
+
+Jupiter (stormy + creamy)
+• Background: #0B0C10
+• Accent: #D9A066
+• Secondary accent: #8C4B2D
+• Text: #F4F1ED
+
+Saturn (soft gold)
+• Background: #0A0A0F
+• Accent: #D6C28B
+• Secondary: #6E5B3A
+• Text: #FFFFFF
+
+Neptune (deep blue)
+• Background: #050A14
+• Accent: #2E6BFF
+• Secondary: #00B3FF
+• Text: #EAF2FF
