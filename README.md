@@ -8,3 +8,4 @@ Links:
 
 - <https://favicomatic.com/done> (favicon generator)
 - <https://unsplash.com/photos/earth-with-clouds-above-the-african-continent-vhSz50AaFAs>
+-<https://hansdev365.github.io/planet-website/>
