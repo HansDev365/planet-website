@@ -1,4 +1,12 @@
 /* Main navigation styles and positioning */
+
+:root {
+	--text-muted: #cbd5f5;
+	--accent-atmosphere: #7dd3fc;
+	--max-width: 1200px;
+	--space-3: 1rem;
+	--space-4: 1.5rem;
+}
 .header {
 	position: sticky;
 	top: 0;
@@ -9,8 +17,8 @@
 }
 
 .container {
-  width: min(var(--max-width), calc(100% - 3rem));
-  margin-inline: auto;
+	width: min(var(--max-width), calc(100% - 3rem));
+	margin-inline: auto;
 }
 
 .header__inner {

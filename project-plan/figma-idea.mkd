@@ -1,13 +1,16 @@
 # Figma Wireframe Layout Idea
 
 ## Frame
+
 - Device: Desktop 1440 x 3000
 - Grid: 12 columns
 - Margin: 80 px
 - Gutter: 20 px
 
 ## Sections
+
 ### Header / Navbar
+
 - Purpose: Primary navigation and quick brand recognition.
 - Height target: 72 px.
 - Layout: Logo on the left, links on the right.
@@ -15,6 +18,7 @@
 - Notes: Dark background with optional subtle blur.
 
 ### Hero
+
 - Purpose: Introduce Earth with visual impact and clear call-to-action.
 - Height target: ~700 px.
 - Layout: Two columns (left content, right featured image card).
@@ -22,6 +26,7 @@
 - Notes: Keep the image dominant but balanced with text.
 
 ### About
+
 - Purpose: Provide context and core Earth information.
 - Height target: ~650 px.
 - Layout: Two columns (left image, right text).
@@ -29,6 +34,7 @@
 - Notes: Match spacing rhythm used in hero section.
 
 ### Facts
+
 - Purpose: Quick scan section for key data points.
 - Height target: ~600 px.
 - Layout: Title and intro above a 3-column card grid.
@@ -36,6 +42,7 @@
 - Notes: Card style uses subtle panel, border, and 18 px radius.
 
 ### Gallery
+
 - Purpose: Visual storytelling through curated Earth imagery.
 - Height target: ~650 px.
 - Layout: Title and intro above a 3x2 image grid.
@@ -43,6 +50,7 @@
 - Notes: Use 220 px image height and 18 px border radius.
 
 ### Footer
+
 - Purpose: Attribution and source references.
 - Height target: ~120 px.
 - Layout: Two aligned text blocks (left/right).
@@ -50,42 +58,50 @@
 - Notes: Stack content vertically on mobile.
 
 ## Components
+
 - Button
 - Fact Card
 - Gallery Image Tile
 
 ## Responsive Rules
+
 - Desktop: 12-column grid with two-column hero and about sections.
 - Mobile (<= 768 px): Stack two-column sections into one column.
 - Mobile (<= 768 px): Collapse facts and gallery grids to one column.
 - Mobile (<= 768 px): Reduce spacing and heading scale.
 
 ## Color Palettes
+
 ### Mars (Warm + Dark)
+
 - Background: #0D0D0D
 - Accent: #C1440E
 - Surface/Card: rgba(255,255,255,0.06)
 - Main Text: #FFFFFF
 
 ### Jupiter (Stormy + Creamy)
+
 - Background: #0B0C10
 - Accent: #D9A066
 - Secondary Accent: #8C4B2D
 - Main Text: #F4F1ED
 
 ### Saturn (Soft Gold)
+
 - Background: #0A0A0F
 - Accent: #D6C28B
 - Secondary Accent: #6E5B3A
 - Main Text: #FFFFFF
 
 ### Neptune (Deep Blue)
+
 - Background: #050A14
 - Accent: #2E6BFF
 - Secondary Accent: #00B3FF
 - Main Text: #EAF2FF
 
 ### Earth
+
 - Background: #030712
 - Surface/Card: rgba(255,255,255,0.06)
 - Primary Accent: #1E90FF
